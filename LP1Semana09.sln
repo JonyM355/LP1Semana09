@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntCollections", "IntCollections\IntCollections.csproj", "{73A0DE0F-EEAD-4626-92AD-A6C301800BFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualPlayer", "EqualPlayer\EqualPlayer.csproj", "{BFAAFF6B-3784-4024-A995-0C2A93CAED75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{73A0DE0F-EEAD-4626-92AD-A6C301800BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73A0DE0F-EEAD-4626-92AD-A6C301800BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73A0DE0F-EEAD-4626-92AD-A6C301800BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAAFF6B-3784-4024-A995-0C2A93CAED75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAAFF6B-3784-4024-A995-0C2A93CAED75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAAFF6B-3784-4024-A995-0C2A93CAED75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAAFF6B-3784-4024-A995-0C2A93CAED75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
